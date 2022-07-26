@@ -1,0 +1,4 @@
+
+cinza #404040
+azul sem saturacao #36728E
+Amarelo sem saturacao #BCA953
