@@ -16,3 +16,5 @@ App_cinzaE = "#e0e0e0"
 
 App_azul = "#36728E"
 App_amarelo = "#BCA953"
+
+bg_default = App_cinza2
